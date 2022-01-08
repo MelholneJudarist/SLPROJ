@@ -1,0 +1,149 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>REVENTDOOR</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <meta name="keywords" content="портфолио, работы, сайт-портфолио, фотогаллерея">
+        <meta name="description" content="Сайт-портфолио">
+        <meta name="author" content="Luganskaya & Gritsak">
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="index.html"><strong>REVENTDOOR</strong> by cerberus </a></h1>
+						<nav>
+							<ul>
+								<li><a href="#footer" class="icon fa-info-circle">About</a></li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+						<article class="thumb">
+							<a href="images/fulls/01.jpg" class="image"><img src="images/thumbs/01.jpg" alt="" /></a>
+							<h2>by SylviaRitter</h2>
+							<p>Speedpainting 28102021</p>
+						</article>
+						<article class="thumb">
+							<a href="images/fulls/02.jpg" class="image"><img src="images/thumbs/02.jpg" alt="" /></a>
+							<h2>by elixiravisuals</h2>
+							<p>Cerulean and Fuschia</p>
+						</article>
+						<article class="thumb">
+							<a href="images/fulls/03.jpg" class="image"><img src="images/thumbs/03.jpg" alt="" /></a>
+							<h2>by Lisa-MariePhotog</h2>
+							<p>CIRCUS FREAK</p>
+						</article>
+						<article class="thumb">
+							<a href="images/fulls/04.png" class="image"><img src="images/thumbs/04.png" alt="" /></a>
+							<h2>by Triss Vencely</h2>
+							<p>Sunset</p>
+						</article>
+						<article class="thumb">
+							<a href="images/fulls/05.png" class="image"><img src="images/thumbs/05.png" alt="" /></a>
+							<h2>by Withoutafuss</h2>
+							<p>Captain Canada</p>
+						</article>
+						<article class="thumb">
+							<a href="images/fulls/06.jpg" class="image"><img src="images/thumbs/06.jpg" alt="" /></a>
+							<h2>by UllaThynell</h2>
+							<p>Dream with Dancing Trees</p>
+						</article>
+						<article class="thumb">
+							<a href="images/fulls/07.jpg" class="image"><img src="images/thumbs/07.jpg" alt="" /></a>
+							<h2>by MiraMarta</h2>
+							<p>TRINITY BLOOD: secret mission</p>
+						</article>
+						<article class="thumb">
+							<a href="images/fulls/08.jpg" class="image"><img src="images/thumbs/08.jpg" alt="" /></a>
+							<h2>by sinakasra</h2>
+							<p>THE RED ONNA-MUSHA - VIII</p>
+						</article>
+						<article class="thumb">
+							<a href="images/fulls/09.jpg" class="image"><img src="images/thumbs/09.jpg" alt="" /></a>
+							<h2>Neque et faucibus viverra</h2>
+							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
+						</article>
+						<article class="thumb">
+							<a href="images/fulls/10.jpg" class="image"><img src="images/thumbs/10.jpg" alt="" /></a>
+							<h2>by Ephemere8</h2>
+							<p>Catch</p>
+						</article>
+						<article class="thumb">
+							<a href="images/fulls/11.jpg" class="image"><img src="images/thumbs/11.jpg" alt="" /></a>
+							<h2>by PlusTime001</h2>
+							<p>Konan and Yahiko</p>
+						</article>
+						<article class="thumb">
+							<a href="images/fulls/12.png" class="image"><img src="images/thumbs/12.png" alt="" /></a>
+							<h2>by Norma2D</h2>
+							<p>Rust balls</p>
+						</article>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer" class="panel">
+						<div class="inner split">
+							<div>
+								<section>
+									<h2>ReventDoor welcomes you and your creativity</h2>
+									<p>This site was created by a small team of two people and we would be pleased if this site pleases you and unleashes your creativity. You inspire us, and we do our best for you.</p>
+								</section>
+								<section>
+									<h2>Follow our team on ...</h2>
+									<ul class="icons">
+										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
+										<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+										<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									</ul>
+								</section>
+								<p class="copyright">
+									&copy; ReventDoor. Design: <a href="http://cerberus.com">Cerberus</a>.
+								</p>
+							</div>
+							<div>
+								<section>
+									<h2>Get in touch</h2>
+									<form method="post" action="#">
+										<div class="field half first">
+											<input type="text" name="name" id="name" placeholder="Name" />
+										</div>
+										<div class="field half">
+											<input type="text" name="email" id="email" placeholder="Email" />
+										</div>
+										<div class="field">
+											<textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
+										</div>
+										<ul class="actions">
+											<li><input type="submit" value="Send" class="special" /></li>
+											<li><input type="reset" value="Reset" /></li>
+										</ul>
+									</form>
+								</section>
+							</div>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

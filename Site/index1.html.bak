@@ -1,0 +1,28 @@
+<!Doctype html>
+ <html>
+  <head>
+  <meta charset="utf-8">
+  <meta name="keywords" content="портфолио, работы, сайт-портфолио, фотогаллерея">
+  <meta name="description" content="Сайт-портфолио">
+  <meta name="author" content="Luganskaya Anastasiya">
+   <link rel="stylesheet" href="style.css" type="text/css">
+   <link rel="stylesheet" href="style2.css" type="text/css">
+   <link rel="shortcut icon" href="favicon.ico">
+   <title>
+   REVENTDOOR
+   </title>
+  </head>
+  
+	<div id="header">  <a href="index.html"> <img src="log1.png" vspace="25px" width="310px"> </a> <a href="Login/login.html">  <img src="logicon.png" vspace="25px" width="50px" align="right" margin-right="20px"> </a></div> 
+            <a href="index.html"> <h2 class="text-effect"> REVENTDOOR </h2> </a> 
+        </h2>
+			<a href="Login/login.html">  <img src="logicon.png" vspace="25px" width="50px"> </a>
+        </ul>
+    </nav>
+
+	<div id="clear"> </div>
+	<div id="footer"> <center> <h3> @ReventDoor from Luganskaya Anastasiya, 2020 </h3> </center> </div>
+	 </font> </font> </font> </font> </font> </font> 
+	</div>
+  </body>
+ </html>

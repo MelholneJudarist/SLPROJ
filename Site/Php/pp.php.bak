@@ -1,0 +1,25 @@
+<?php
+
+$uploaddir =/var/REVENTDOOR/index/;
+$uploadfile = $uploaddir . basename($_FILES['userfile']['name']);
+
+if(!is_uploaded_file($_FILES['userfile']['tmp_name']))  
+{
+     echo "Загрузка файла на сервер не удалась";
+     die(); //or throw exception...
+} 
+
+//Проверка что это картинка
+
+if (!getimagesize($_FILES["userfile"]["tmp_name"])) {
+     echo "Это не картинка...";
+     die(); //or throw exception...
+}
+
+if (move_uploaded_file($_FILES['userfile']['tmp_name'], $uploadfile)) {
+    echo "Файл корректен и был успешно загружен.\n";
+} else {
+    echo "Возможная атака с помощью файловой загрузки!\n";
+}
+
+?>
